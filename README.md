@@ -8,3 +8,6 @@ Day 1:
 Day 2:
 1. Created a python code for handling missing values(continuous variable)in the dataset.
 2. Watched videos of Dataschool for missing values : https://www.youtube.com/watch?v=te5JrSCW-LY
+
+Day 3:
+1. EDA for mobile price data.
