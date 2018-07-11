@@ -11,3 +11,7 @@ Day 2:
 
 Day 3:
 1. EDA for mobile price data.
+
+Day 4:
+1. Studied the basics of statistics.
+2. Watched the complete series of Eddie Woo - sampling(5/5) : https://www.youtube.com/watch?v=z0pWasFTFnU 
