@@ -15,3 +15,8 @@ Day 3:
 Day 4:
 1. Studied the basics of statistics.
 2. Watched the complete series of Eddie Woo - sampling(5/5) : https://www.youtube.com/watch?v=z0pWasFTFnU 
+
+Day 5:
+1. Registered for data hackathon : https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/
+2. started working on Loans dataset a datahack project.
+3. Reading blogs about data explorations/feature engineering. 
